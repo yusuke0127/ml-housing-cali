@@ -19,7 +19,7 @@ To download data, run this command in your notebook:
 fetch_housing_data()
 ```
 
-and
+and to load data
 ```python
 load_housing_data()
 ```
